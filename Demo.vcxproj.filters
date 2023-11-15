@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="数据结构考试">
+      <UniqueIdentifier>{931e91b5-9683-4489-871b-2808b7b17a8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="软考算法题">
+      <UniqueIdentifier>{d8a5aa70-2d66-4343-af91-f042fc5c037d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PAT算法">
+      <UniqueIdentifier>{6ef7446c-0233-4d71-9e65-0f2efb49fda7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="蓝桥杯">
+      <UniqueIdentifier>{92e95646-ede6-41da-bd18-f81ba39484d0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="类的多态.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="读写文件操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="职工管理系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DNS修复.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL容器进阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode算法题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="表达式求值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="crQUEUE.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="约瑟夫环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="表达式求值(改).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL高阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="四种排序算法第一轮.cpp">
+      <Filter>数据结构考试</Filter>
+    </ClCompile>
+    <ClCompile Include="交集和并集.cpp">
+      <Filter>数据结构考试</Filter>
+    </ClCompile>
+    <ClCompile Include="检查括号是否匹配%28三种括号%29.cpp">
+      <Filter>数据结构考试</Filter>
+    </ClCompile>
+    <ClCompile Include="检测括号是否匹配(一种括号).cpp">
+      <Filter>数据结构考试</Filter>
+    </ClCompile>
+    <ClCompile Include="哈夫曼树.cpp">
+      <Filter>数据结构考试</Filter>
+    </ClCompile>
+    <ClCompile Include="N皇后.c">
+      <Filter>软考算法题</Filter>
+    </ClCompile>
+    <ClCompile Include="递归N皇后问题.c">
+      <Filter>软考算法题</Filter>
+    </ClCompile>
+    <ClCompile Include="01背包.c">
+      <Filter>软考算法题</Filter>
+    </ClCompile>
+    <ClCompile Include="01背包(递归).c">
+      <Filter>软考算法题</Filter>
+    </ClCompile>
+    <ClCompile Include="补码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pat.cpp">
+      <Filter>PAT算法</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯算法题.cpp">
+      <Filter>蓝桥杯</Filter>
+    </ClCompile>
+    <ClCompile Include="算法分析257.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序.cpp">
+      <Filter>软考算法题</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="person.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Myarray.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\cache\QQcache\1368532531\FileRecv\stack1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
